@@ -1,5 +1,5 @@
 
-## Cherokee_
+## Cherokee
 Ce projet implémente un serveur de fichiers Web simple sous Linux en utilisant C++11. 
 À travers le navigateur, vous pouvez envoyer des requêtes HTTP pour gérer tous les fichiers dans un dossier spécifié sur le serveur. Les principales fonctionnalités incluent :
 
